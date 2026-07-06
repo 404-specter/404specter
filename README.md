@@ -29,6 +29,11 @@ general contact :
 
 For encypted email, use my Proton Mail PGP public key : 
 
+[`public key-404specter42@proton.me .asc`](./publickey-proton.asc)
+
+
+
+
 
 
 
