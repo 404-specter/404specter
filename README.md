@@ -21,13 +21,13 @@ I am currently building skills in cybersecurity, with a focus on offensive secur
 
 ---
 
-## Contact
+## Contact & PGP
 
 general contact : 
 
 404specter42@proton.me
 
-For encypted email, use my Proton Mail PGP public key : 
+For encrypted email, use my Proton Mail PGP public key : 
 
 [publickey-proton.asc](./publickey-proton.asc)
 
@@ -45,7 +45,11 @@ GPG fingerprint :
 
 Git Commit Signing
 
-My GitHub commits may be signed with a separate GPG key associated with my GitHub noreply email
+My GitHub commits may be signed with a separate GPG key associated with my GitHub noreply email.
+
+212301875+404-specter@users.noreply.github.com 
+
+
 
 
 
