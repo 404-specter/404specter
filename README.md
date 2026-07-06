@@ -61,7 +61,12 @@ My GitHub commits may be signed with a separate GPG key associated with my GitHu
 
 This key is used only for GitHub commit/tag signing, not for encrypted email or file exchange
 
+---
 
+## Security Note
+
+Only public keys are safe to share.  
+Always verify the fingerprint before using my public key.
 
 
 
