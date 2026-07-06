@@ -29,13 +29,18 @@ general contact :
 
 For encypted email, use my Proton Mail PGP public key : 
 
-[`public key - 404specter42@proton.me .asc`](./publickey-proton.asc)
+[publickey-proton.asc](./publickey-proton.asc)
 
 Proton PGP fingerprint
 
 227d102edec64690f082889823b3843ef981297b
 
-For encypted files or manual PGP/GPG messages
+For encrypted files or manual PGP/GPG messages
+
+[⁠publickey-gpg.asc⁠](./publickey-gpg.asc)
+
+
+
 
 
 
