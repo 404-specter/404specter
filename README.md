@@ -39,6 +39,17 @@ For encrypted files or manual PGP/GPG messages
 
 [⁠publickey-gpg.asc⁠](./publickey-gpg.asc)
 
+GPG fingerprint : 
+
+5D98 C05B 51E3 48E7 2D38  24A3 16F0 5965 0915 C26C
+
+Git Commit Signing
+
+My GitHub commits may be signed with a separate GPG key associated with my GitHub noreply email
+
+
+
+
 
 
 
