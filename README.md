@@ -9,26 +9,26 @@ Red Team | Blue Team | OSINT | Digital Forensics | Privacy | OpenPGP
 
 I am currently building skills in cybersecurity, with a focus on offensive security, defensive security, OSINT, privacy, and digital forensics.
 
-I am interested in:
+## Current Focus
 
-- Red Team labs and ethical hacking
-- Blue Team monitoring and detection
+- Cybersecurity fundamentals
+- Linux and networking
+- Red Team & Blue Team labs
 - OSINT and threat intelligence
-- Digital forensics
+- Digital Forensics
 - Privacy and secure communication
 - OpenPGP / GPG
-- Homelab and self-hosted security labs
 
 ---
 
-## Current Focus
+## Contact
 
-```text
-Cybersecurity fundamentals
-Linux
-Networking
-OpenPGP / GPG
-OSINT
-Digital Forensics
-Red Team & Blue Team labs
+general contact : 
+
+404specter42@proton.me
+
+For encypted email, use my Proton Mail PGP public key : 
+
+
+
 
