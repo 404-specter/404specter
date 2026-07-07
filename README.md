@@ -29,21 +29,9 @@ I am currently building skills in cybersecurity, with a focus on offensive secur
 
 ---
 
-### Encypted Email
+### Encrypted PGP 
 
-Use this key for encrypted email communication through Proton Mail: 
-
-[publickey-proton.asc](./publickey-proton.asc)
-
-Proton PGP fingerprint
-
-227d102edec64690f082889823b3843ef981297b
-
----
-
-### Encrypted files & manual PGP messages 
-
-Use this key for encrypted files, manual OpenPGP/GPG massages, signing, and verification:
+Use this key for encrypted OpenPGP/GPG massages, files, signing, and verification:
 
 [⁠publickey-gpg.asc⁠](./publickey-gpg.asc)
 
