@@ -25,7 +25,7 @@ I am currently building skills in cybersecurity, with a focus on offensive secur
 
 ### general contact
 
-404specter42@proton.me
+key.404specter@gmail.com
 
 ---
 
@@ -37,7 +37,7 @@ Use this key for encrypted OpenPGP/GPG massages, files, signing, and verificatio
 
 GPG fingerprint : 
 
-5D98 C05B 51E3 48E7 2D38  24A3 16F0 5965 0915 C26C
+69DF B523 889C E9FB 977B  D8BB B5E2 D1F1 54A5 C7EE
 
 ---
 
